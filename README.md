@@ -17,10 +17,13 @@ This repository serves as a collection of machine learning algorithms learned du
 
 List of implemented algorithms:
 
-1. **Linear Regression**
-2. **Logistic Regression**
-3. **Polynomial Regression**
-   <!-- Add more algorithms here -->
+1. **Logistic Regression**
+2. **Polynomial Regression**
+3. **SVM**
+4. **Decision Tree**
+5. **Random Forest**
+6. **Gradient Boosting**
+
 
 ## License
 
