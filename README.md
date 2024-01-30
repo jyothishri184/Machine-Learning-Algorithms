@@ -15,21 +15,33 @@ This repository serves as a collection of machine learning algorithms learned du
 
 ## Implemented Algorithms
 
-List of implemented algorithms:
+List of implemented algorithms with brief descriptions:
 
-1. **Logistic Regression**
-2. **Polynomial Regression**
-3. **SVM**
-4. **Decision Tree**
-5. **Random Forest**
-6. **Gradient Boosting**
-7. **AdaBoost**
-8. **XGBoost**
-9. **CatBoost**
-10. **LightGBM**
-11. **KMeans Clustering**
-12. **DBSCAN**
-13. **PCA**
+1. **Logistic Regression:** A classification algorithm that models the probability of a binary outcome.
+
+2. **Polynomial Regression:** Extends linear regression by considering polynomial features, useful for capturing non-linear relationships.
+
+3. **SVM (Support Vector Machine):** A versatile algorithm for both classification and regression tasks, effective in high-dimensional spaces.
+
+4. **Decision Tree:** A tree-like model where decisions are made at each node based on features, used for classification and regression.
+
+5. **Random Forest:** An ensemble learning method that constructs a multitude of decision trees for improved accuracy and control over-fitting.
+
+6. **Gradient Boosting:** A machine learning technique for regression and classification problems, builds models sequentially to correct errors made by previous models.
+
+7. **AdaBoost (Adaptive Boosting):** An ensemble learning method that combines weak learners to create a strong learner.
+
+8. **XGBoost:** An optimized and scalable gradient boosting library, widely used for classification and regression tasks.
+
+9. **CatBoost:** A machine learning library designed for categorical feature support, often used in classification tasks.
+
+10. **LightGBM:** A gradient boosting framework that uses tree-based learning algorithms, designed for efficiency and distributed training.
+
+11. **KMeans Clustering:** A popular clustering algorithm that partitions data into K clusters based on similarity.
+
+12. **DBSCAN (Density-Based Spatial Clustering of Applications with Noise):** A clustering algorithm that groups together data points with similar characteristics.
+
+13. **PCA (Principal Component Analysis):** A dimensionality reduction technique that transforms data into a lower-dimensional space while retaining important information.
 
 ## License
 
