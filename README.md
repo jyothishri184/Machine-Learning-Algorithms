@@ -23,7 +23,13 @@ List of implemented algorithms:
 4. **Decision Tree**
 5. **Random Forest**
 6. **Gradient Boosting**
-
+7. **AdaBoost**
+8. **XGBoost**
+9. **CatBoost**
+10. **LightGBM**
+11. **KMeans Clustering**
+12. **DBSCAN**
+13. **PCA**
 
 ## License
 
