@@ -56,3 +56,15 @@ To clone this repository and access the machine learning algorithms:
 
    ```bash
    git clone https://github.com/jyothishri184/Machine-Learning-Algorithms.git
+
+4.Once cloned, you can explore the code and run the algorithms in your preferred Python environment or Jupyter Notebook/Google Colab.
+
+## License
+
+This Machine Learning Algorithms repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+Special thanks to the open-source community and contributors for inspiration and learning resources.
+
+Happy Coding 🚀
