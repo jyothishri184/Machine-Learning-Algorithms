@@ -6,8 +6,9 @@ Welcome to my Machine Learning Algorithms Repository! This repository contains i
 
 1. [Introduction](#introduction)
 2. [Implemented Algorithms](#implemented-algorithms)
-3. [License](#license)
-4. [Acknowledgments](#acknowledgments)
+3. [How to Clone the Code](#how-to-clone-the-code)
+4. [License](#license)
+5. [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -43,10 +44,15 @@ List of implemented algorithms with brief descriptions:
 
 13. **PCA (Principal Component Analysis):** A dimensionality reduction technique that transforms data into a lower-dimensional space while retaining important information.
 
-## License
+## How to Clone the Code
 
-This Machine Learning Algorithms repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+To clone this repository and access the machine learning algorithms:
 
-## Acknowledgments
+1. Open your terminal or command prompt.
 
-Special thanks to the open-source community and contributors for inspiration and learning resources.
+2. Navigate to the directory where you want to store the code.
+
+3. Use the following command to clone the repository:
+
+   ```bash
+   git clone https://github.com/jyothishri184/Machine-Learning-Algorithms.git
